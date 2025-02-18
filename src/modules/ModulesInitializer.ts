@@ -4,7 +4,7 @@ import { PreFilterPipeModuleInitializer } from "./parameters/preFilterPipe/preFi
 import { PreFilterAgeModuleInitializer } from "./parameters/preFilterAge/preFilterAgeModule"
 import { PreFilterAgreementModuleInitializer } from "./parameters/preFilterAgreement/preFilterAgreementModule"
 import { FileLogModuleInitializer } from "./filesLogs/fileLogModule"
-import { PreFilterSegmentModuleInitializer } from "./parameters/preFilterSegment/preFilterSegmentModule"
+import { PreFilterSegmentModuleInitializer } from "./parameters/preFilterSegment/prefilterSegmentModule"
 import { PreFilterTypeOfAgreementModuleInitializer } from "./parameters/preFilterTypesOfAgreements/preFilterTypeOfAgreementModule"
 import  { RucModuleInitializer } from "./ruc/rucModule"
 
