@@ -1,6 +1,6 @@
 'use strict';
 // import {PUBLIC,PENSIONS,PRIVATE,RETIRED} from "../src/constants/segments"
-const { PUBLIC, PENSIONS, PRIVATE, RETIRED } = require("../src/constants/segments.ts");
+const { PUBLIC, PENSIONS, PRIVATE, RETIRED } = require("../src/constants/segments.js"); //cambie .ts a .js ya que agregué segments como js
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
